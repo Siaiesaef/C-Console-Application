@@ -1,0 +1,14 @@
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\coursework.AssemblyInfoInputs.cache
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\coursework.AssemblyInfo.cs
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\coursework.csproj.CoreCompileInputs.cache
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\bin\Debug\net9.0\coursework.exe
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\bin\Debug\net9.0\coursework.deps.json
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\bin\Debug\net9.0\coursework.runtimeconfig.json
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\bin\Debug\net9.0\coursework.dll
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\bin\Debug\net9.0\coursework.pdb
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\coursework.dll
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\refint\coursework.dll
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\coursework.pdb
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\coursework.genruntimeconfig.cache
+C:\Users\siapu\OneDrive\Desktop\coursework\programming1\coursework\obj\Debug\net9.0\ref\coursework.dll
